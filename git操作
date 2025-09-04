@@ -1,3 +1,6 @@
+git 回撤本地（刚刚commit 没有push）                     
+git reset --soft HEAD~1
+
 git拉取远程最新分支命令
 
 更新本地的远程分支
